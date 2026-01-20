@@ -7,7 +7,9 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 include_directories(model)
 include_directories(googletest googletest/include googletest/include/gtest)
 include_directories(tools)
-add_executable(unittests googletest/src/gtest-all.cc
+include_directories(test)
+add_executable(unittests 
+        googletest/src/gtest-all.cc
         test/unittest.cpp
         tools/Configuration.h
         tools/Configuration.cpp
@@ -40,32 +42,8 @@ target_link_libraries(unittests sqlite3)
 
 
 include_directories(dbtools)
-add_executable(rogue-app main.cpp
-        tools/Log.cpp
-        tools/Log.h
-        tools/Configuration.h
-        tools/Configuration.cpp
-        dbtools/Update.cpp
-        dbtools/Update.h
-        dbtools/Delete.cpp
-        dbtools/Delete.h
-        dbtools/Insert.cpp
-        dbtools/Insert.h
-        dbtools/Select.cpp
-        dbtools/Select.h
-        model/Game.cpp
-        model/Game.h
-        model/Coordinate.cpp
-        model/Coordinate.h
-        model/Room.cpp
-        model/Room.h
-        model/Hallway.cpp
-        model/Hallway.h
-        model/HallwayCoor.cpp
-        model/HallwayCoor.h
-)
-
-add_executable(rogue TUI/rogue.cpp
+add_executable(rogue 
+        TUI/rogue.cpp
         model/Game.cpp
         model/Game.h
         model/Model.cpp
@@ -94,7 +72,5 @@ add_executable(rogue TUI/rogue.cpp
         tools/Configuration.h
 )
 
-
-target_link_libraries(rogue-app sqlite3)
 target_link_libraries(rogue sqlite3)
 target_link_libraries(rogue ncurses)

@@ -4,7 +4,7 @@
 # compile CXX with /usr/bin/c++
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/cole/github/rogue-app/model -I/home/cole/github/rogue-app/googletest -I/home/cole/github/rogue-app/googletest/include -I/home/cole/github/rogue-app/googletest/include/gtest -I/home/cole/github/rogue-app/tools -I/home/cole/github/rogue-app/dbtools
+CXX_INCLUDES = -I/home/cole/github/rogue-app/model -I/home/cole/github/rogue-app/googletest -I/home/cole/github/rogue-app/googletest/include -I/home/cole/github/rogue-app/googletest/include/gtest -I/home/cole/github/rogue-app/tools -I/home/cole/github/rogue-app/test -I/home/cole/github/rogue-app/dbtools
 
 CXX_FLAGS = -std=gnu++17
 

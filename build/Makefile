@@ -130,19 +130,6 @@ unittests/fast:
 .PHONY : unittests/fast
 
 #=============================================================================
-# Target rules for targets named rogue-app
-
-# Build rule for target.
-rogue-app: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 rogue-app
-.PHONY : rogue-app
-
-# fast build rule for target.
-rogue-app/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/build
-.PHONY : rogue-app/fast
-
-#=============================================================================
 # Target rules for targets named rogue
 
 # Build rule for target.
@@ -185,7 +172,6 @@ dbtools/Delete.o: dbtools/Delete.cpp.o
 # target to build an object file
 dbtools/Delete.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Delete.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Delete.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Delete.cpp.o
 .PHONY : dbtools/Delete.cpp.o
 
@@ -195,7 +181,6 @@ dbtools/Delete.i: dbtools/Delete.cpp.i
 # target to preprocess a source file
 dbtools/Delete.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Delete.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Delete.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Delete.cpp.i
 .PHONY : dbtools/Delete.cpp.i
 
@@ -205,7 +190,6 @@ dbtools/Delete.s: dbtools/Delete.cpp.s
 # target to generate assembly for a file
 dbtools/Delete.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Delete.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Delete.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Delete.cpp.s
 .PHONY : dbtools/Delete.cpp.s
 
@@ -215,7 +199,6 @@ dbtools/Insert.o: dbtools/Insert.cpp.o
 # target to build an object file
 dbtools/Insert.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Insert.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Insert.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Insert.cpp.o
 .PHONY : dbtools/Insert.cpp.o
 
@@ -225,7 +208,6 @@ dbtools/Insert.i: dbtools/Insert.cpp.i
 # target to preprocess a source file
 dbtools/Insert.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Insert.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Insert.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Insert.cpp.i
 .PHONY : dbtools/Insert.cpp.i
 
@@ -235,7 +217,6 @@ dbtools/Insert.s: dbtools/Insert.cpp.s
 # target to generate assembly for a file
 dbtools/Insert.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Insert.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Insert.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Insert.cpp.s
 .PHONY : dbtools/Insert.cpp.s
 
@@ -245,7 +226,6 @@ dbtools/Select.o: dbtools/Select.cpp.o
 # target to build an object file
 dbtools/Select.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Select.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Select.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Select.cpp.o
 .PHONY : dbtools/Select.cpp.o
 
@@ -255,7 +235,6 @@ dbtools/Select.i: dbtools/Select.cpp.i
 # target to preprocess a source file
 dbtools/Select.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Select.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Select.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Select.cpp.i
 .PHONY : dbtools/Select.cpp.i
 
@@ -265,7 +244,6 @@ dbtools/Select.s: dbtools/Select.cpp.s
 # target to generate assembly for a file
 dbtools/Select.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Select.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Select.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Select.cpp.s
 .PHONY : dbtools/Select.cpp.s
 
@@ -275,7 +253,6 @@ dbtools/Update.o: dbtools/Update.cpp.o
 # target to build an object file
 dbtools/Update.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Update.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Update.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Update.cpp.o
 .PHONY : dbtools/Update.cpp.o
 
@@ -285,7 +262,6 @@ dbtools/Update.i: dbtools/Update.cpp.i
 # target to preprocess a source file
 dbtools/Update.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Update.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Update.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Update.cpp.i
 .PHONY : dbtools/Update.cpp.i
 
@@ -295,7 +271,6 @@ dbtools/Update.s: dbtools/Update.cpp.s
 # target to generate assembly for a file
 dbtools/Update.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/dbtools/Update.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/dbtools/Update.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/dbtools/Update.cpp.s
 .PHONY : dbtools/Update.cpp.s
 
@@ -323,37 +298,12 @@ googletest/src/gtest-all.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/googletest/src/gtest-all.cc.s
 .PHONY : googletest/src/gtest-all.cc.s
 
-main.o: main.cpp.o
-.PHONY : main.o
-
-# target to build an object file
-main.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/main.cpp.o
-.PHONY : main.cpp.o
-
-main.i: main.cpp.i
-.PHONY : main.i
-
-# target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/main.cpp.i
-.PHONY : main.cpp.i
-
-main.s: main.cpp.s
-.PHONY : main.s
-
-# target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/main.cpp.s
-.PHONY : main.cpp.s
-
 model/Coordinate.o: model/Coordinate.cpp.o
 .PHONY : model/Coordinate.o
 
 # target to build an object file
 model/Coordinate.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Coordinate.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Coordinate.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Coordinate.cpp.o
 .PHONY : model/Coordinate.cpp.o
 
@@ -363,7 +313,6 @@ model/Coordinate.i: model/Coordinate.cpp.i
 # target to preprocess a source file
 model/Coordinate.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Coordinate.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Coordinate.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Coordinate.cpp.i
 .PHONY : model/Coordinate.cpp.i
 
@@ -373,7 +322,6 @@ model/Coordinate.s: model/Coordinate.cpp.s
 # target to generate assembly for a file
 model/Coordinate.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Coordinate.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Coordinate.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Coordinate.cpp.s
 .PHONY : model/Coordinate.cpp.s
 
@@ -383,7 +331,6 @@ model/Game.o: model/Game.cpp.o
 # target to build an object file
 model/Game.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Game.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Game.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Game.cpp.o
 .PHONY : model/Game.cpp.o
 
@@ -393,7 +340,6 @@ model/Game.i: model/Game.cpp.i
 # target to preprocess a source file
 model/Game.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Game.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Game.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Game.cpp.i
 .PHONY : model/Game.cpp.i
 
@@ -403,7 +349,6 @@ model/Game.s: model/Game.cpp.s
 # target to generate assembly for a file
 model/Game.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Game.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Game.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Game.cpp.s
 .PHONY : model/Game.cpp.s
 
@@ -413,7 +358,6 @@ model/Hallway.o: model/Hallway.cpp.o
 # target to build an object file
 model/Hallway.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Hallway.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Hallway.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Hallway.cpp.o
 .PHONY : model/Hallway.cpp.o
 
@@ -423,7 +367,6 @@ model/Hallway.i: model/Hallway.cpp.i
 # target to preprocess a source file
 model/Hallway.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Hallway.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Hallway.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Hallway.cpp.i
 .PHONY : model/Hallway.cpp.i
 
@@ -433,7 +376,6 @@ model/Hallway.s: model/Hallway.cpp.s
 # target to generate assembly for a file
 model/Hallway.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Hallway.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Hallway.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Hallway.cpp.s
 .PHONY : model/Hallway.cpp.s
 
@@ -443,7 +385,6 @@ model/HallwayCoor.o: model/HallwayCoor.cpp.o
 # target to build an object file
 model/HallwayCoor.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/HallwayCoor.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/HallwayCoor.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/HallwayCoor.cpp.o
 .PHONY : model/HallwayCoor.cpp.o
 
@@ -453,7 +394,6 @@ model/HallwayCoor.i: model/HallwayCoor.cpp.i
 # target to preprocess a source file
 model/HallwayCoor.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/HallwayCoor.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/HallwayCoor.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/HallwayCoor.cpp.i
 .PHONY : model/HallwayCoor.cpp.i
 
@@ -463,7 +403,6 @@ model/HallwayCoor.s: model/HallwayCoor.cpp.s
 # target to generate assembly for a file
 model/HallwayCoor.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/HallwayCoor.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/HallwayCoor.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/HallwayCoor.cpp.s
 .PHONY : model/HallwayCoor.cpp.s
 
@@ -527,7 +466,6 @@ model/Room.o: model/Room.cpp.o
 # target to build an object file
 model/Room.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Room.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Room.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Room.cpp.o
 .PHONY : model/Room.cpp.o
 
@@ -537,7 +475,6 @@ model/Room.i: model/Room.cpp.i
 # target to preprocess a source file
 model/Room.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Room.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Room.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Room.cpp.i
 .PHONY : model/Room.cpp.i
 
@@ -547,7 +484,6 @@ model/Room.s: model/Room.cpp.s
 # target to generate assembly for a file
 model/Room.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/model/Room.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/model/Room.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/model/Room.cpp.s
 .PHONY : model/Room.cpp.s
 
@@ -581,7 +517,6 @@ tools/Configuration.o: tools/Configuration.cpp.o
 # target to build an object file
 tools/Configuration.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Configuration.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Configuration.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Configuration.cpp.o
 .PHONY : tools/Configuration.cpp.o
 
@@ -591,7 +526,6 @@ tools/Configuration.i: tools/Configuration.cpp.i
 # target to preprocess a source file
 tools/Configuration.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Configuration.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Configuration.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Configuration.cpp.i
 .PHONY : tools/Configuration.cpp.i
 
@@ -601,7 +535,6 @@ tools/Configuration.s: tools/Configuration.cpp.s
 # target to generate assembly for a file
 tools/Configuration.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Configuration.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Configuration.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Configuration.cpp.s
 .PHONY : tools/Configuration.cpp.s
 
@@ -611,7 +544,6 @@ tools/Log.o: tools/Log.cpp.o
 # target to build an object file
 tools/Log.cpp.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Log.cpp.o
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Log.cpp.o
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Log.cpp.o
 .PHONY : tools/Log.cpp.o
 
@@ -621,7 +553,6 @@ tools/Log.i: tools/Log.cpp.i
 # target to preprocess a source file
 tools/Log.cpp.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Log.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Log.cpp.i
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Log.cpp.i
 .PHONY : tools/Log.cpp.i
 
@@ -631,7 +562,6 @@ tools/Log.s: tools/Log.cpp.s
 # target to generate assembly for a file
 tools/Log.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/unittests.dir/build.make CMakeFiles/unittests.dir/tools/Log.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue-app.dir/build.make CMakeFiles/rogue-app.dir/tools/Log.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/rogue.dir/build.make CMakeFiles/rogue.dir/tools/Log.cpp.s
 .PHONY : tools/Log.cpp.s
 
@@ -644,7 +574,6 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... rogue"
-	@echo "... rogue-app"
 	@echo "... unittests"
 	@echo "... TUI/rogue.o"
 	@echo "... TUI/rogue.i"
@@ -664,9 +593,6 @@ help:
 	@echo "... googletest/src/gtest-all.o"
 	@echo "... googletest/src/gtest-all.i"
 	@echo "... googletest/src/gtest-all.s"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
 	@echo "... model/Coordinate.o"
 	@echo "... model/Coordinate.i"
 	@echo "... model/Coordinate.s"
