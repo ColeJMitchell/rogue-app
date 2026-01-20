@@ -1,2 +1,2 @@
-database_path database/rogue.sqlite
+database_path ../database/rogue.sqlite
 in out

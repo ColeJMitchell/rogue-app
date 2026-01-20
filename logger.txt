@@ -1,373 +1,307 @@
 player spawned at row = 20 col = 5 id = 0
-Emu spawned at row = 25 col = 25 id = 0
-Bat spawned at row = 15 col = 25 id = 1
-Zombie spawned at row = 30 col = 40 id = 2
-Snake spawned at row = 27 col = 41 id = 3
-Hobgoblin spawned at row = 25 col = 42 id = 4
-Zombie spawned at row = 30 col = 60 id = 5
-Snake spawned at row = 27 col = 60 id = 6
-Hobgoblin spawned at row = 25 col = 60 id = 7
-Dragon spawned at row = 13 col = 66 id = 8
-Dragon spawned at row = 39 col = 57 id = 9
-Dragon spawned at row = 20 col = 60 id = 10
-Dragon spawned at row = 22 col = 56 id = 11
-Dragon spawned at row = 39 col = 65 id = 12
-Dragon spawned at row = 30 col = 68 id = 13
-Dragon spawned at row = 37 col = 67 id = 14
-Dragon spawned at row = 39 col = 64 id = 15
-Amulet spawned at row = 39 col = 71 id = 0
-Health_potion spawned at row = 30 col = 65 id = 1
-Health_potion spawned at row = 14 col = 70 id = 2
-Health_potion spawned at row = 12 col = 66 id = 3
-Health_potion spawned at row = 35 col = 62 id = 4
-player moved to row = 20 col = 6 id = 0
-player moved to row = 20 col = 7 id = 0
-player moved to row = 20 col = 8 id = 0
-player moved to row = 21 col = 8 id = 0
-player moved to row = 22 col = 8 id = 0
-player moved to row = 23 col = 8 id = 0
-player moved to row = 23 col = 9 id = 0
-player moved to row = 23 col = 10 id = 0
-player moved to row = 23 col = 11 id = 0
-player moved to row = 23 col = 12 id = 0
-player moved to row = 23 col = 13 id = 0
-player moved to row = 23 col = 14 id = 0
-player moved to row = 23 col = 15 id = 0
-player moved to row = 23 col = 16 id = 0
-player moved to row = 23 col = 17 id = 0
-player moved to row = 23 col = 18 id = 0
-player moved to row = 23 col = 19 id = 0
-player moved to row = 23 col = 20 id = 0
-player moved to row = 23 col = 21 id = 0
-player moved to row = 23 col = 22 id = 0
-Emu moved to position row =  25 col = 24 id = 0
-Bat moved to position row = 15 col = 26 id = 1
-player moved to row = 23 col = 23 id = 0
-Emu moved to position row = 24 col = 24 id = 0
-Emu slain by player id = 0
-player moved to row = 23 col = 24 id = 0
-Bat moved to position row =  15 col = 25 id = 1
-player moved to row = 23 col = 25 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-player moved to row = 23 col = 26 id = 0
-Bat moved to position row =  14 col = 24 id = 1
-player moved to row = 23 col = 27 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-player moved to row = 24 col = 27 id = 0
-Bat moved to position row = 15 col = 25 id = 1
-player moved to row = 24 col = 26 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-player moved to row = 25 col = 26 id = 0
-Bat moved to position row = 13 col = 25 id = 1
-player moved to row = 25 col = 25 id = 0
-Bat moved to position row = 13 col = 26 id = 1
-player moved to row = 26 col = 25 id = 0
-Bat moved to position row =  13 col = 25 id = 1
-player moved to row = 27 col = 25 id = 0
-Bat moved to position row = 13 col = 26 id = 1
-player moved to row = 28 col = 25 id = 0
-Bat moved to position row =  13 col = 25 id = 1
-player moved to row = 29 col = 25 id = 0
-Bat moved to position row =  13 col = 24 id = 1
-player moved to row = 30 col = 25 id = 0
-Bat moved to position row = 13 col = 25 id = 1
-player moved to row = 31 col = 25 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-player moved to row = 32 col = 25 id = 0
-Bat moved to position row = 14 col = 26 id = 1
-player moved to row = 33 col = 25 id = 0
-Bat moved to position row = 15 col = 26 id = 1
-player moved to row = 34 col = 25 id = 0
-Bat moved to position row = 16 col = 26 id = 1
-player moved to row = 35 col = 25 id = 0
-Bat moved to position row =  16 col = 25 id = 1
-player moved to row = 35 col = 25 id = 0
-Bat moved to position row = 17 col = 25 id = 1
-player moved to row = 35 col = 25 id = 0
-Bat moved to position row =  17 col = 24 id = 1
-player moved to row = 35 col = 25 id = 0
-Bat moved to position row = 16 col = 24 id = 1
-player moved to row = 35 col = 25 id = 0
-Bat moved to position row = 16 col = 25 id = 1
-player moved to row = 35 col = 26 id = 0
-Bat moved to position row = 16 col = 26 id = 1
-player moved to row = 35 col = 27 id = 0
-Bat moved to position row = 16 col = 27 id = 1
-player moved to row = 35 col = 28 id = 0
-Bat moved to position row =  16 col = 26 id = 1
-player moved to row = 35 col = 29 id = 0
-Bat moved to position row =  16 col = 25 id = 1
-player moved to row = 35 col = 30 id = 0
-Bat moved to position row =  16 col = 24 id = 1
-player moved to row = 35 col = 31 id = 0
-Bat moved to position row = 15 col = 24 id = 1
-player moved to row = 35 col = 32 id = 0
-Bat moved to position row = 15 col = 25 id = 1
-player moved to row = 35 col = 33 id = 0
-Bat moved to position row = 15 col = 26 id = 1
-player moved to row = 35 col = 34 id = 0
-Bat moved to position row = 15 col = 27 id = 1
-player moved to row = 35 col = 35 id = 0
-Bat moved to position row = 14 col = 27 id = 1
-player moved to row = 35 col = 36 id = 0
-Bat moved to position row =  14 col = 26 id = 1
-player moved to row = 35 col = 37 id = 0
-Bat moved to position row = 13 col = 26 id = 1
-player moved to row = 35 col = 38 id = 0
-Bat moved to position row = 14 col = 26 id = 1
-player moved to row = 35 col = 39 id = 0
-Bat moved to position row =  14 col = 25 id = 1
-player moved to row = 35 col = 40 id = 0
-Bat moved to position row = 14 col = 26 id = 1
-player moved to row = 35 col = 40 id = 0
-Bat moved to position row = 13 col = 26 id = 1
-player moved to row = 35 col = 40 id = 0
-Bat moved to position row = 12 col = 26 id = 1
-player moved to row = 35 col = 40 id = 0
-Bat moved to position row = 11 col = 26 id = 1
-player moved to row = 34 col = 40 id = 0
-Bat moved to position row =  11 col = 25 id = 1
-player moved to row = 33 col = 40 id = 0
-Bat moved to position row = 12 col = 25 id = 1
-Zombie moved to position row = 29 col = 40 id = 2
-Snake moved to position row = 27 col = 42 id = 3
-Hobgoblin moved to position row = 26 col = 42 id = 4
-player moved to row = 32 col = 40 id = 0
-Bat moved to position row =  12 col = 24 id = 1
-Zombie moved to position row = 29 col = 41 id = 2
-Snake moved to position row = 26 col = 42 id = 3
-Hobgoblin moved to position row = 26 col = 43 id = 4
-player moved to row = 31 col = 40 id = 0
-Bat moved to position row =  12 col = 23 id = 1
-Zombie moved to position row = 30 col = 41 id = 2
-Snake moved to position row = 27 col = 42 id = 3
-Hobgoblin moved to position row = 25 col = 43 id = 4
-player moved to row = 30 col = 40 id = 0
-Bat moved to position row = 12 col = 24 id = 1
-Zombie moved to position row = 30 col = 42 id = 2
-Snake moved to position row = 28 col = 42 id = 3
-player moved to row = 30 col = 41 id = 0
-Bat moved to position row = 11 col = 24 id = 1
-Zombie moved to position row = 29 col = 42 id = 2
-Hobgoblin moved to position row =  25 col = 42 id = 4
-player moved to row = 30 col = 42 id = 0
-Bat moved to position row = 12 col = 24 id = 1
-Zombie moved to position row = 28 col = 42 id = 2
-Snake moved to position row = 28 col = 43 id = 3
-player moved to row = 29 col = 42 id = 0
-Bat moved to position row = 11 col = 24 id = 1
-Zombie moved to position row = 27 col = 42 id = 2
-Snake moved to position row = 29 col = 43 id = 3
-Snake slain by player id = 3
-player moved to row = 29 col = 43 id = 0
-Bat moved to position row =  11 col = 23 id = 1
-Zombie moved to position row = 27 col = 43 id = 2
-player moved to row = 29 col = 44 id = 0
-Bat moved to position row = 11 col = 24 id = 1
-Zombie moved to position row =  27 col = 42 id = 2
-Hobgoblin moved to position row = 25 col = 43 id = 4
-player moved to row = 29 col = 45 id = 0
-Bat moved to position row = 12 col = 24 id = 1
-Zombie moved to position row =  27 col = 41 id = 2
-Hobgoblin moved to position row = 25 col = 44 id = 4
-player moved to row = 28 col = 45 id = 0
-Bat moved to position row =  12 col = 23 id = 1
-Zombie moved to position row = 28 col = 41 id = 2
-Hobgoblin moved to position row = 26 col = 44 id = 4
-player moved to row = 28 col = 46 id = 0
-Bat moved to position row = 12 col = 24 id = 1
-Zombie moved to position row = 29 col = 41 id = 2
-Hobgoblin moved to position row = 27 col = 44 id = 4
-player moved to row = 28 col = 47 id = 0
-Bat moved to position row =  12 col = 23 id = 1
-Zombie moved to position row =  29 col = 40 id = 2
-Hobgoblin moved to position row = 27 col = 45 id = 4
-player moved to row = 28 col = 48 id = 0
-Zombie moved to position row = 30 col = 40 id = 2
-Hobgoblin moved to position row = 28 col = 45 id = 4
-player moved to row = 28 col = 49 id = 0
-Bat moved to position row = 13 col = 23 id = 1
-Zombie moved to position row = 31 col = 40 id = 2
-Hobgoblin moved to position row =  28 col = 44 id = 4
-player moved to row = 28 col = 50 id = 0
-Bat moved to position row = 14 col = 23 id = 1
-Zombie moved to position row = 31 col = 41 id = 2
-Hobgoblin moved to position row = 28 col = 45 id = 4
-player moved to row = 28 col = 51 id = 0
-Bat moved to position row = 14 col = 24 id = 1
-Zombie moved to position row =  31 col = 40 id = 2
-Hobgoblin moved to position row =  28 col = 44 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-Zombie moved to position row = 31 col = 41 id = 2
-Hobgoblin moved to position row = 28 col = 45 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row =  14 col = 24 id = 1
-Zombie moved to position row = 30 col = 41 id = 2
-Hobgoblin moved to position row = 27 col = 45 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row = 14 col = 25 id = 1
-Zombie moved to position row = 29 col = 41 id = 2
-Hobgoblin moved to position row = 28 col = 45 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row = 15 col = 25 id = 1
-Zombie moved to position row = 30 col = 41 id = 2
-Hobgoblin moved to position row = 27 col = 45 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row = 16 col = 25 id = 1
-Zombie moved to position row = 30 col = 42 id = 2
-Hobgoblin moved to position row = 26 col = 45 id = 4
-player moved to row = 28 col = 52 id = 0
-Bat moved to position row = 15 col = 25 id = 1
-Zombie moved to position row = 29 col = 42 id = 2
-Hobgoblin moved to position row = 27 col = 45 id = 4
-player moved to row = 27 col = 52 id = 0
-Bat moved to position row =  15 col = 24 id = 1
-Zombie moved to position row = 30 col = 42 id = 2
-Hobgoblin moved to position row = 26 col = 45 id = 4
-player moved to row = 26 col = 52 id = 0
-Bat moved to position row =  15 col = 23 id = 1
-Zombie moved to position row = 29 col = 42 id = 2
-Hobgoblin moved to position row = 25 col = 45 id = 4
-player moved to row = 25 col = 52 id = 0
-Zombie moved to position row = 28 col = 42 id = 2
-Hobgoblin moved to position row =  25 col = 44 id = 4
-player moved to row = 25 col = 52 id = 0
-Bat moved to position row = 14 col = 23 id = 1
-Zombie moved to position row =  28 col = 41 id = 2
-Hobgoblin moved to position row =  25 col = 43 id = 4
-player moved to row = 25 col = 53 id = 0
-Bat moved to position row = 15 col = 23 id = 1
-Zombie moved to position row = 27 col = 41 id = 2
-Zombie moved to position row = 30 col = 61 id = 5
-Snake moved to position row = 26 col = 60 id = 6
-Hobgoblin moved to position row = 25 col = 61 id = 7
-Dragon moved to position row =  13 col = 65 id = 8
-Dragon moved to position row =  39 col = 56 id = 9
-Dragon moved to position row = 21 col = 60 id = 10
-Dragon moved to position row = 23 col = 56 id = 11
-Dragon moved to position row =  39 col = 64 id = 12
-Dragon moved to position row = 31 col = 68 id = 13
-Dragon moved to position row = 36 col = 67 id = 14
-Dragon moved to position row =  39 col = 63 id = 15
-player moved to row = 25 col = 54 id = 0
-Zombie moved to position row = 27 col = 42 id = 2
-Hobgoblin moved to position row = 26 col = 43 id = 4
-Zombie moved to position row = 31 col = 61 id = 5
-Snake moved to position row =  26 col = 59 id = 6
-Hobgoblin moved to position row = 26 col = 61 id = 7
-Dragon moved to position row = 12 col = 65 id = 8
-Dragon moved to position row =  21 col = 59 id = 10
-Dragon moved to position row = 23 col = 57 id = 11
-Dragon moved to position row = 38 col = 64 id = 12
-Dragon moved to position row = 31 col = 69 id = 13
-Dragon moved to position row =  36 col = 66 id = 14
-Dragon moved to position row = 38 col = 63 id = 15
-player moved to row = 25 col = 55 id = 0
-Zombie moved to position row =  27 col = 41 id = 2
-Hobgoblin moved to position row = 27 col = 43 id = 4
-Zombie moved to position row = 32 col = 61 id = 5
-Snake moved to position row = 27 col = 59 id = 6
-Hobgoblin moved to position row = 25 col = 61 id = 7
-Dragon moved to position row = 38 col = 56 id = 9
-Dragon moved to position row = 22 col = 59 id = 10
-Dragon moved to position row = 23 col = 58 id = 11
-Dragon moved to position row = 39 col = 64 id = 12
-Dragon moved to position row = 32 col = 69 id = 13
-Dragon moved to position row = 36 col = 67 id = 14
-Dragon moved to position row =  38 col = 62 id = 15
-player moved to row = 25 col = 56 id = 0
-Bat moved to position row = 16 col = 23 id = 1
-Zombie moved to position row =  27 col = 40 id = 2
-Hobgoblin moved to position row =  27 col = 42 id = 4
-Zombie moved to position row =  32 col = 60 id = 5
-Snake moved to position row = 26 col = 59 id = 6
-Hobgoblin moved to position row =  25 col = 60 id = 7
-Dragon moved to position row = 13 col = 65 id = 8
-Dragon moved to position row = 39 col = 56 id = 9
-Dragon moved to position row =  22 col = 58 id = 10
-Dragon moved to position row =  32 col = 68 id = 13
-Dragon moved to position row =  36 col = 66 id = 14
-Dragon moved to position row = 38 col = 63 id = 15
-player moved to row = 26 col = 56 id = 0
-Bat moved to position row = 15 col = 23 id = 1
-Zombie moved to position row = 27 col = 41 id = 2
-Zombie moved to position row = 31 col = 60 id = 5
-Snake moved to position row = 25 col = 59 id = 6
-Dragon moved to position row = 12 col = 65 id = 8
-Dragon moved to position row = 39 col = 57 id = 9
-Dragon moved to position row = 23 col = 58 id = 10
-Dragon moved to position row =  23 col = 57 id = 11
-Dragon moved to position row =  39 col = 63 id = 12
-Dragon moved to position row = 33 col = 68 id = 13
-Dragon moved to position row = 35 col = 66 id = 14
-player moved to row = 26 col = 57 id = 0
-Bat moved to position row = 16 col = 23 id = 1
-Zombie moved to position row =  27 col = 40 id = 2
-Hobgoblin moved to position row =  27 col = 41 id = 4
-Zombie moved to position row = 30 col = 60 id = 5
-Snake moved to position row = 25 col = 60 id = 6
-Hobgoblin moved to position row = 25 col = 61 id = 7
-Dragon moved to position row = 13 col = 65 id = 8
-Dragon moved to position row = 23 col = 59 id = 10
-Dragon moved to position row = 24 col = 57 id = 11
-Dragon moved to position row = 32 col = 68 id = 13
-Dragon moved to position row = 34 col = 66 id = 14
-Dragon moved to position row = 37 col = 63 id = 15
-player moved to row = 26 col = 58 id = 0
-Bat moved to position row = 17 col = 23 id = 1
-Zombie moved to position row = 28 col = 40 id = 2
-Hobgoblin moved to position row =  27 col = 40 id = 4
-Zombie moved to position row = 30 col = 61 id = 5
-Snake moved to position row =  25 col = 59 id = 6
-Hobgoblin moved to position row = 25 col = 62 id = 7
-Dragon moved to position row =  13 col = 64 id = 8
-Dragon moved to position row = 22 col = 59 id = 10
-Dragon moved to position row = 25 col = 57 id = 11
-Dragon slain by player id = 11
-Dragon moved to position row = 32 col = 69 id = 13
-Dragon moved to position row = 33 col = 66 id = 14
-Dragon moved to position row =  37 col = 62 id = 15
-Dragon moved to position row = 37 col = 63 id = 15
-player moved to row = 26 col = 59 id = 0
-Bat moved to position row = 17 col = 24 id = 1
-Zombie moved to position row = 27 col = 40 id = 2
-Hobgoblin moved to position row = 27 col = 41 id = 4
-Zombie moved to position row = 30 col = 62 id = 5
-Snake slain by player id = 6
-Dragon moved to position row = 12 col = 64 id = 8
-Dragon moved to position row =  39 col = 56 id = 9
-Dragon moved to position row =  22 col = 58 id = 10
-Dragon moved to position row = 33 col = 69 id = 13
-Dragon moved to position row =  33 col = 65 id = 14
-Dragon moved to position row = 37 col = 64 id = 15
-Dragon moved to position row = 38 col = 64 id = 15
-player moved to row = 26 col = 60 id = 0
-Bat moved to position row =  17 col = 23 id = 1
-Zombie moved to position row =  27 col = 39 id = 2
-Hobgoblin moved to position row = 27 col = 42 id = 4
-Zombie moved to position row = 31 col = 62 id = 5
-Hobgoblin moved to position row = 26 col = 62 id = 7
-Dragon moved to position row = 12 col = 65 id = 8
-Dragon moved to position row =  39 col = 55 id = 9
-Dragon moved to position row = 22 col = 59 id = 10
-Dragon moved to position row = 38 col = 63 id = 12
-Dragon moved to position row = 32 col = 69 id = 13
-Dragon moved to position row = 32 col = 65 id = 14
-Dragon moved to position row = 38 col = 65 id = 15
-player moved to row = 26 col = 61 id = 0
-Bat moved to position row = 17 col = 24 id = 1
-Zombie moved to position row = 26 col = 39 id = 2
-Hobgoblin moved to position row = 28 col = 42 id = 4
-Zombie moved to position row = 32 col = 62 id = 5
-Hobgoblin moved to position row = 27 col = 62 id = 7
-Hobgoblin slain by player id = 7
-Dragon moved to position row = 39 col = 56 id = 9
-Dragon moved to position row = 22 col = 60 id = 10
-Dragon moved to position row = 37 col = 63 id = 12
-Dragon moved to position row = 33 col = 69 id = 13
-Dragon moved to position row = 33 col = 65 id = 14
-Dragon moved to position row = 38 col = 66 id = 15
-Dragon moved to position row = 38 col = 67 id = 15
-player moved to row = 26 col = 62 id = 0
-player died id = 0
+Emu spawned at row = 25 col = 25 id = 208
+Bat spawned at row = 15 col = 25 id = 209
+Zombie spawned at row = 30 col = 40 id = 210
+Snake spawned at row = 27 col = 41 id = 211
+Hobgoblin spawned at row = 25 col = 42 id = 212
+Zombie spawned at row = 30 col = 60 id = 213
+Snake spawned at row = 27 col = 60 id = 214
+Hobgoblin spawned at row = 25 col = 60 id = 215
+Dragon spawned at row = 13 col = 66 id = 216
+Dragon spawned at row = 39 col = 57 id = 217
+Dragon spawned at row = 20 col = 60 id = 218
+Dragon spawned at row = 22 col = 56 id = 219
+Dragon spawned at row = 39 col = 65 id = 220
+Dragon spawned at row = 30 col = 68 id = 221
+Dragon spawned at row = 37 col = 67 id = 222
+Dragon spawned at row = 39 col = 64 id = 223
+Amulet spawned at row = 39 col = 71 id = 65
+Health_potion spawned at row = 30 col = 65 id = 66
+Health_potion spawned at row = 14 col = 70 id = 67
+Health_potion spawned at row = 12 col = 66 id = 68
+Health_potion spawned at row = 35 col = 62 id = 69
+player moved to row = 21 col = 5 id = 13
+player moved to row = 22 col = 5 id = 13
+player moved to row = 23 col = 5 id = 13
+player moved to row = 23 col = 6 id = 13
+player moved to row = 23 col = 7 id = 13
+player moved to row = 23 col = 8 id = 13
+player moved to row = 23 col = 9 id = 13
+player moved to row = 23 col = 10 id = 13
+player moved to row = 23 col = 11 id = 13
+player moved to row = 23 col = 12 id = 13
+player moved to row = 23 col = 13 id = 13
+player moved to row = 23 col = 14 id = 13
+player moved to row = 23 col = 15 id = 13
+player moved to row = 23 col = 16 id = 13
+player moved to row = 23 col = 17 id = 13
+player moved to row = 23 col = 18 id = 13
+player moved to row = 23 col = 19 id = 13
+player moved to row = 23 col = 20 id = 13
+player moved to row = 23 col = 21 id = 13
+player moved to row = 23 col = 22 id = 13
+Emu moved to position row =  25 col = 24 id = 208
+Bat moved to position row = 15 col = 26 id = 209
+player moved to row = 23 col = 23 id = 13
+Emu moved to position row = 24 col = 24 id = 208
+Emu slain by player id = 208
+player moved to row = 23 col = 24 id = 13
+Bat moved to position row =  15 col = 25 id = 209
+player moved to row = 24 col = 24 id = 13
+Bat moved to position row = 14 col = 25 id = 209
+player moved to row = 25 col = 24 id = 13
+Bat moved to position row =  14 col = 24 id = 209
+player moved to row = 26 col = 24 id = 13
+Bat moved to position row = 14 col = 25 id = 209
+player moved to row = 26 col = 25 id = 13
+Bat moved to position row = 15 col = 25 id = 209
+player moved to row = 27 col = 25 id = 13
+Bat moved to position row = 14 col = 25 id = 209
+player moved to row = 28 col = 25 id = 13
+Bat moved to position row = 13 col = 25 id = 209
+player moved to row = 29 col = 25 id = 13
+Bat moved to position row = 13 col = 26 id = 209
+player moved to row = 30 col = 25 id = 13
+Bat moved to position row =  13 col = 25 id = 209
+player moved to row = 31 col = 25 id = 13
+Bat moved to position row = 13 col = 26 id = 209
+player moved to row = 32 col = 25 id = 13
+Bat moved to position row =  13 col = 25 id = 209
+player moved to row = 33 col = 25 id = 13
+Bat moved to position row =  13 col = 24 id = 209
+player moved to row = 34 col = 25 id = 13
+Bat moved to position row = 13 col = 25 id = 209
+player moved to row = 35 col = 25 id = 13
+Bat moved to position row = 14 col = 25 id = 209
+player moved to row = 35 col = 25 id = 13
+Bat moved to position row = 14 col = 26 id = 209
+player moved to row = 35 col = 26 id = 13
+Bat moved to position row = 15 col = 26 id = 209
+player moved to row = 35 col = 27 id = 13
+Bat moved to position row = 16 col = 26 id = 209
+player moved to row = 35 col = 28 id = 13
+Bat moved to position row =  16 col = 25 id = 209
+player moved to row = 35 col = 29 id = 13
+Bat moved to position row = 17 col = 25 id = 209
+player moved to row = 35 col = 30 id = 13
+Bat moved to position row =  17 col = 24 id = 209
+player moved to row = 35 col = 31 id = 13
+Bat moved to position row = 16 col = 24 id = 209
+player moved to row = 35 col = 32 id = 13
+Bat moved to position row = 16 col = 25 id = 209
+player moved to row = 35 col = 33 id = 13
+Bat moved to position row = 16 col = 26 id = 209
+player moved to row = 35 col = 34 id = 13
+Bat moved to position row = 16 col = 27 id = 209
+player moved to row = 35 col = 35 id = 13
+Bat moved to position row =  16 col = 26 id = 209
+player moved to row = 35 col = 36 id = 13
+Bat moved to position row =  16 col = 25 id = 209
+player moved to row = 35 col = 37 id = 13
+Bat moved to position row =  16 col = 24 id = 209
+player moved to row = 35 col = 38 id = 13
+Bat moved to position row = 15 col = 24 id = 209
+player moved to row = 35 col = 39 id = 13
+Bat moved to position row = 15 col = 25 id = 209
+player moved to row = 35 col = 40 id = 13
+Bat moved to position row = 15 col = 26 id = 209
+player moved to row = 35 col = 40 id = 13
+Bat moved to position row = 15 col = 27 id = 209
+player moved to row = 34 col = 40 id = 13
+Bat moved to position row = 14 col = 27 id = 209
+player moved to row = 33 col = 40 id = 13
+Bat moved to position row =  14 col = 26 id = 209
+Zombie moved to position row = 29 col = 40 id = 210
+Snake moved to position row = 28 col = 41 id = 211
+Hobgoblin moved to position row =  25 col = 41 id = 212
+player moved to row = 32 col = 40 id = 13
+Bat moved to position row = 14 col = 27 id = 209
+Zombie moved to position row = 28 col = 40 id = 210
+Snake moved to position row = 27 col = 41 id = 211
+player moved to row = 31 col = 40 id = 13
+Bat moved to position row =  14 col = 26 id = 209
+Zombie moved to position row = 29 col = 40 id = 210
+Snake moved to position row = 26 col = 41 id = 211
+Hobgoblin moved to position row = 25 col = 42 id = 212
+player moved to row = 31 col = 41 id = 13
+Bat moved to position row = 15 col = 26 id = 209
+Zombie moved to position row =  29 col = 39 id = 210
+Snake moved to position row = 26 col = 42 id = 211
+player moved to row = 31 col = 42 id = 13
+Bat moved to position row = 15 col = 27 id = 209
+Zombie moved to position row =  29 col = 38 id = 210
+Snake moved to position row = 27 col = 42 id = 211
+Hobgoblin moved to position row = 26 col = 42 id = 212
+player moved to row = 31 col = 43 id = 13
+Bat moved to position row = 14 col = 27 id = 209
+Zombie moved to position row = 29 col = 39 id = 210
+Snake moved to position row = 27 col = 43 id = 211
+Hobgoblin moved to position row = 27 col = 42 id = 212
+player moved to row = 30 col = 43 id = 13
+Bat moved to position row = 13 col = 27 id = 209
+Zombie moved to position row = 28 col = 39 id = 210
+Snake moved to position row = 26 col = 43 id = 211
+Hobgoblin moved to position row = 28 col = 42 id = 212
+player moved to row = 29 col = 43 id = 13
+Bat moved to position row =  13 col = 26 id = 209
+Zombie moved to position row = 29 col = 39 id = 210
+Snake moved to position row = 25 col = 43 id = 211
+Hobgoblin moved to position row = 28 col = 43 id = 212
+Hobgoblin slain by player id = 212
+player moved to row = 29 col = 42 id = 13
+Bat moved to position row = 12 col = 26 id = 209
+Zombie moved to position row = 28 col = 39 id = 210
+player moved to row = 28 col = 42 id = 13
+Bat moved to position row = 13 col = 26 id = 209
+Zombie moved to position row =  28 col = 38 id = 210
+Snake moved to position row = 25 col = 44 id = 211
+player moved to row = 28 col = 41 id = 13
+Bat moved to position row = 12 col = 26 id = 209
+Zombie moved to position row = 28 col = 39 id = 210
+Snake moved to position row =  25 col = 43 id = 211
+player moved to row = 27 col = 41 id = 13
+Bat moved to position row = 12 col = 27 id = 209
+Zombie moved to position row = 29 col = 39 id = 210
+Snake moved to position row =  25 col = 42 id = 211
+player moved to row = 26 col = 41 id = 13
+Bat moved to position row = 12 col = 28 id = 209
+Zombie moved to position row =  29 col = 38 id = 210
+Snake moved to position row = 26 col = 42 id = 211
+Snake slain by player id = 211
+player moved to row = 25 col = 41 id = 13
+Bat moved to position row = 13 col = 28 id = 209
+Zombie moved to position row = 29 col = 39 id = 210
+player moved to row = 26 col = 41 id = 13
+Bat moved to position row = 14 col = 28 id = 209
+Zombie moved to position row = 30 col = 39 id = 210
+player moved to row = 27 col = 41 id = 13
+Bat moved to position row =  14 col = 27 id = 209
+Zombie moved to position row =  30 col = 38 id = 210
+player moved to row = 28 col = 41 id = 13
+Bat moved to position row = 14 col = 28 id = 209
+player moved to row = 29 col = 41 id = 13
+Bat moved to position row = 15 col = 28 id = 209
+Zombie moved to position row = 31 col = 38 id = 210
+player moved to row = 30 col = 41 id = 13
+Bat moved to position row = 16 col = 28 id = 209
+Zombie moved to position row = 32 col = 38 id = 210
+player moved to row = 30 col = 40 id = 13
+Bat moved to position row =  16 col = 27 id = 209
+player moved to row = 31 col = 40 id = 13
+Bat moved to position row = 16 col = 28 id = 209
+Zombie moved to position row = 32 col = 39 id = 210
+player moved to row = 32 col = 40 id = 13
+Bat moved to position row = 16 col = 29 id = 209
+Zombie moved to position row =  32 col = 38 id = 210
+player moved to row = 32 col = 39 id = 13
+Bat moved to position row =  16 col = 28 id = 209
+Zombie slain by player id = 210
+player moved to row = 31 col = 39 id = 13
+Bat moved to position row = 16 col = 29 id = 209
+player moved to row = 30 col = 39 id = 13
+Bat moved to position row = 16 col = 30 id = 209
+player moved to row = 30 col = 40 id = 13
+Bat moved to position row =  16 col = 29 id = 209
+player moved to row = 30 col = 41 id = 13
+Bat moved to position row = 15 col = 29 id = 209
+player moved to row = 30 col = 42 id = 13
+Bat moved to position row = 14 col = 29 id = 209
+player moved to row = 29 col = 42 id = 13
+Bat moved to position row = 14 col = 30 id = 209
+player moved to row = 28 col = 42 id = 13
+Bat moved to position row = 13 col = 30 id = 209
+player moved to row = 28 col = 43 id = 13
+Bat moved to position row = 14 col = 30 id = 209
+player moved to row = 28 col = 44 id = 13
+Bat moved to position row = 15 col = 30 id = 209
+player moved to row = 28 col = 45 id = 13
+Bat moved to position row = 16 col = 30 id = 209
+player moved to row = 28 col = 46 id = 13
+Bat moved to position row = 15 col = 30 id = 209
+player moved to row = 28 col = 47 id = 13
+Bat moved to position row = 16 col = 30 id = 209
+player moved to row = 28 col = 48 id = 13
+player moved to row = 28 col = 49 id = 13
+Bat moved to position row = 15 col = 30 id = 209
+player moved to row = 28 col = 50 id = 13
+Bat moved to position row = 14 col = 30 id = 209
+player moved to row = 28 col = 51 id = 13
+Bat moved to position row = 13 col = 30 id = 209
+player moved to row = 28 col = 52 id = 13
+Bat moved to position row = 14 col = 30 id = 209
+player moved to row = 28 col = 52 id = 13
+Bat moved to position row =  14 col = 29 id = 209
+player moved to row = 28 col = 52 id = 13
+Bat moved to position row = 15 col = 29 id = 209
+player moved to row = 27 col = 52 id = 13
+Bat moved to position row = 14 col = 29 id = 209
+player moved to row = 26 col = 52 id = 13
+Bat moved to position row =  14 col = 28 id = 209
+player moved to row = 25 col = 52 id = 13
+Bat moved to position row = 13 col = 28 id = 209
+player moved to row = 25 col = 53 id = 13
+Bat moved to position row = 12 col = 28 id = 209
+Zombie moved to position row =  30 col = 59 id = 213
+Snake moved to position row = 26 col = 60 id = 214
+Hobgoblin moved to position row =  25 col = 59 id = 215
+Dragon moved to position row =  39 col = 56 id = 217
+Dragon moved to position row =  20 col = 59 id = 218
+Dragon moved to position row = 23 col = 56 id = 219
+Dragon moved to position row = 38 col = 65 id = 220
+Dragon moved to position row = 29 col = 68 id = 221
+Dragon moved to position row = 37 col = 68 id = 222
+Dragon moved to position row = 38 col = 64 id = 223
+player moved to row = 25 col = 54 id = 13
+Bat moved to position row = 12 col = 29 id = 209
+Zombie moved to position row =  30 col = 58 id = 213
+Snake moved to position row =  26 col = 59 id = 214
+Dragon moved to position row = 14 col = 66 id = 216
+Dragon moved to position row =  39 col = 55 id = 217
+Dragon moved to position row = 21 col = 59 id = 218
+Dragon moved to position row = 22 col = 56 id = 219
+Dragon moved to position row =  38 col = 64 id = 220
+Dragon moved to position row =  29 col = 67 id = 221
+Dragon moved to position row = 37 col = 69 id = 222
+Dragon moved to position row = 39 col = 64 id = 223
+player moved to row = 25 col = 55 id = 13
+Bat moved to position row = 13 col = 29 id = 209
+Zombie moved to position row =  30 col = 57 id = 213
+Snake moved to position row = 27 col = 59 id = 214
+Hobgoblin moved to position row = 24 col = 59 id = 215
+Dragon moved to position row = 15 col = 66 id = 216
+Dragon moved to position row =  39 col = 54 id = 217
+Dragon moved to position row = 21 col = 60 id = 218
+Dragon moved to position row = 21 col = 56 id = 219
+Dragon moved to position row = 38 col = 65 id = 220
+Dragon moved to position row =  29 col = 66 id = 221
+Dragon moved to position row = 36 col = 69 id = 222
+Dragon moved to position row =  39 col = 63 id = 223
+player moved to row = 25 col = 56 id = 13
+Bat moved to position row =  13 col = 28 id = 209
+Zombie moved to position row = 31 col = 57 id = 213
+Snake moved to position row = 28 col = 59 id = 214
+Hobgoblin moved to position row = 25 col = 59 id = 215
+Dragon moved to position row = 14 col = 66 id = 216
+Dragon moved to position row = 39 col = 55 id = 217
+Dragon moved to position row = 20 col = 60 id = 218
+Dragon moved to position row = 22 col = 56 id = 219
+Dragon moved to position row = 38 col = 66 id = 220
+Dragon moved to position row = 30 col = 66 id = 221
+Dragon moved to position row = 37 col = 69 id = 222
+Dragon moved to position row = 39 col = 64 id = 223
+player moved to row = 24 col = 56 id = 13
+Bat moved to position row =  13 col = 27 id = 209
+Zombie moved to position row = 32 col = 57 id = 213
+Snake moved to position row =  28 col = 58 id = 214
+Hobgoblin moved to position row =  25 col = 58 id = 215
+Dragon moved to position row =  14 col = 65 id = 216
+Dragon moved to position row = 38 col = 55 id = 217
+Dragon moved to position row =  20 col = 59 id = 218
+Dragon moved to position row = 23 col = 56 id = 219
+Dragon slain by player id = 219
+Dragon moved to position row = 31 col = 66 id = 221
+Dragon moved to position row =  37 col = 68 id = 222
+Dragon moved to position row = 38 col = 64 id = 223
+Dragon moved to position row = 39 col = 64 id = 223
+player moved to row = 23 col = 56 id = 13
+player died id = 13

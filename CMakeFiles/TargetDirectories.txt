@@ -1,0 +1,5 @@
+/home/cole/github/rogue-app/CMakeFiles/unittests.dir
+/home/cole/github/rogue-app/CMakeFiles/rogue-app.dir
+/home/cole/github/rogue-app/CMakeFiles/rogue.dir
+/home/cole/github/rogue-app/CMakeFiles/edit_cache.dir
+/home/cole/github/rogue-app/CMakeFiles/rebuild_cache.dir

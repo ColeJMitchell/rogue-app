@@ -6,6 +6,7 @@
 #include <string>
 #include <Model.h>
 #include "Configuration.h"
+#include <filesystem>
 
 // forward reference of function with a passed reference
 // to an object
@@ -15,7 +16,7 @@ void game_end(Model &m);
 
 int main()
 {
-    Configuration c("./","config.txt");
+    Configuration c("../","config.txt");
     Model m(c.getValue("database_path"));
 
     // initialize the screen
